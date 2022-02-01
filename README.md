@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dachi-Laperashvili
-- 👀 I’m interested in cinema
+- 👀 I’m interested in cinema and programming
 - 🌱 I’m currently learning MERN stack
 
 <!---
